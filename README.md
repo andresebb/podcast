@@ -4,6 +4,8 @@ This is a podcast app, with nextjs using the https://github.com/audioboom/api
 
 ![Captura de pantalla](./.readme-static/portada.png)
 
+Web: https://podcast-azure.vercel.app/ 
+
 ## how it works
 
 ```js
